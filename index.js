@@ -11,3 +11,6 @@
 function createFareMultiplier(num) {
   return num => num * num;
 }
+function fareDoubler() {
+  
+}
