@@ -8,6 +8,6 @@
  const selectingDrivers = [
    returnFirstTwoDrivers, returnLastTwoDrivers
  ]
-function createFareMultiplier() {
-  
+function createFareMultiplier(num) {
+
 }
