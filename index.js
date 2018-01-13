@@ -8,3 +8,4 @@
  const selectingDrivers = [
    returnFirstTwoDrivers, returnLastTwoDrivers
  ]
+const createFareMultiplier = function () {}
