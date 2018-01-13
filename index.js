@@ -5,3 +5,4 @@
  const returnLastTwoDrivers = function(arr) {
    return [arr[(arr.length - 2)], arr[(arr.length - 1)]];
  }
+ const selectingDrivers
