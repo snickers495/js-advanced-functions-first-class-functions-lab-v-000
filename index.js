@@ -11,6 +11,6 @@
 function createFareMultiplier(num) {
   return num => num * num;
 }
-function fareDoubler() {
-  
+function fareDoubler(num) {
+    return num * 2
 }
